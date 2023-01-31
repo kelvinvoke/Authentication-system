@@ -83,12 +83,12 @@ WSGI_APPLICATION = 'graphql_api.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME':'railway',
-        'USER': 'postgres',
-        'PASSWORD':'2156gT7oJukA7NBQvJMs',
-        'HOST':'containers-us-west-187.railway.app',
-        'PORT':'6958',
+        'ENGINE': '',
+        'NAME':'',
+        'USER': '',
+        'PASSWORD':'',
+        'HOST':'',
+        'PORT':'',
 
     }
 }
